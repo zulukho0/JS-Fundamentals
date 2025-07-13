@@ -10,4 +10,3 @@ function argumentsChecker(){
     }
 }
 
-argumentsChecker();
