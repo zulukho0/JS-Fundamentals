@@ -10,4 +10,4 @@ function argumentsChecker(){
     }
 }
 
-argumentsChecker("test", 30);
+argumentsChecker();
