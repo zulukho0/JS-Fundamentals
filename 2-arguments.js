@@ -11,3 +11,5 @@ function argumentsChecker(){
 }
 
 argumentsChecker();
+argumentsChecker(2);
+argumentsChecker(1,2,3);
